@@ -4,23 +4,6 @@
 
 Me chamo Willian Dantas Lima, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o Tecnológo na Uniasselvi, com o curso Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Pós-Gradução em Ciencia de Dados na Uniasselvi. Sou facinado por tecnologia e compartilho meu conhecimento através do Linkedin "[Willian Dantas](https://www.linkedin.com/in/williandantas/)".
 
-<p align="left">
-    <a href="https://github.com/dwlz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/dwlz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/dwlz?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/dwlz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
