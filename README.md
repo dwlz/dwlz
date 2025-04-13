@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Willian Dantas
+# 👩‍💻 Willian Dantas
 
 **`Desenvolvedor FullStack`**
 
