@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Willian Dantas
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Willian Dantas Lima, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o Tecnológo na Uniasselvi, com o curso Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Pós-Gradução em Ciencia de Dados na Uniasselvi. Sou facinado por tecnologia e compartilho meu conhecimento através do Linkedin "[Willian Dantas](https://www.linkedin.com/in/williandantas/)".
 
